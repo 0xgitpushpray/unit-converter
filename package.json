@@ -1,0 +1,11 @@
+{
+  "name": "unit-converter",
+  "version": "1.0.0",
+  "description": "Server-rendered unit converter for length, weight and temperature",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "test": "node test.js"
+  },
+  "license": "MIT"
+}
