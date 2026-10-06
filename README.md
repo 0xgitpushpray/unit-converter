@@ -36,5 +36,4 @@ npm test
 - `converters.js`: unit definitions and conversion logic (loaded by Node and by the browser)
 - `public/style.css`: styling
 - `public/app.js`: live conversion, swap, copy, scale
-- `DESIGN.md`: the visual system
 - `test.js`: conversion tests
